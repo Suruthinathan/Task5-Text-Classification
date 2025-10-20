@@ -13,9 +13,6 @@
 4. [Steps Followed](#steps-followed)
 5. [How to Run](#how-to-run)
 6. [Screenshots](#screenshots)
-7. [Releases](#releases)
-8. [Packages](#packages)
-9. [Languages](#languages)
 
 ## Overview
 This project performs text classification on the Consumer Complaint Database dataset, classifying complaints into the following categories:
