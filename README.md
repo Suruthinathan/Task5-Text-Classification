@@ -1,6 +1,22 @@
 
 # Task 5: Text Classification on Consumer Complaint Dataset
 
+##  Author
+**Name:** Suruthi M S  
+**GitHub:** https://github.com/Suruthinathan  
+**Email:** suruthi1425@gmail.com
+
+## **Table of Contents**
+1. [Overview](#overview)
+2. [Folder Structure](#folder-structure)
+3. [Dataset](#dataset)
+4. [Steps Followed](#steps-followed)
+5. [How to Run](#how-to-run)
+6. [Screenshots](#screenshots)
+7. [Releases](#releases)
+8. [Packages](#packages)
+9. [Languages](#languages)
+
 ## Overview
 This project performs text classification on the Consumer Complaint Database dataset, classifying complaints into the following categories:
 0 - Credit reporting, repair, or other  
