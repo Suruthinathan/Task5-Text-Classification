@@ -10,19 +10,22 @@ This project performs text classification on the Consumer Complaint Database dat
 
 ## Folder Structure
 
-
 Task5_Text_Classification/
 │
-├── data/ # Dataset
-│ └── complaints.csv
-├── src/ # Python scripts
-│ ├── preprocessing.py
-│ ├── feature_engineering.py
-│ ├── model_training.py
-│ └── evaluation.py
-├── screenshots/ # Screenshots
-├── requirements.txt # Python dependencies
-└── README.md # Project description + screenshots
+├── data/                 # Dataset
+│   └── complaints.csv
+│
+├── src/                  # Python scripts
+│   ├── preprocessing.py
+│   ├── feature_engineering.py
+│   ├── model_training.py
+│   └── evaluation.py
+│
+├── screenshots/          # Screenshots
+│
+├── requirements.txt      # Python dependencies
+└── README.md             # Project description + screenshots
+
 
 ## Dataset
 **Note:** The CSV file is **not included** in this repository to keep it lightweight.  
