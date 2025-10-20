@@ -1,5 +1,4 @@
 
-```markdown
 # Task 5: Text Classification on Consumer Complaint Dataset
 
 ## Overview
@@ -10,7 +9,7 @@ This project performs text classification on the Consumer Complaint Database dat
 3 - Mortgage
 
 ## Folder Structure
-```
+
 
 Task5_Text_Classification/
 │
@@ -25,7 +24,6 @@ Task5_Text_Classification/
 ├── requirements.txt # Python dependencies
 └── README.md # Project description + screenshots
 
-````
 ## Dataset
 **Note:** The CSV file is **not included** in this repository to keep it lightweight.  
 You can download the dataset from:  
