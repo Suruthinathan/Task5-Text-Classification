@@ -10,6 +10,7 @@ This project performs text classification on the Consumer Complaint Database dat
 
 ## Folder Structure
 
+```
 Task5_Text_Classification/
 │
 ├── data/                 # Dataset
@@ -26,13 +27,13 @@ Task5_Text_Classification/
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project description + screenshots
 
-
+```
 ## Dataset
 **Note:** The CSV file is **not included** in this repository to keep it lightweight.  
 You can download the dataset from:  
 [Consumer Complaint Database CSV](https://catalog.data.gov/dataset/consumer-complaint-database)
 
-Place the downloaded `complaints.csv` inside the `data/` folder before running the code.
+Place the downloaded `complaints.csv` inside the `dataset/` folder before running the code.
 
 
 ## Steps Followed
